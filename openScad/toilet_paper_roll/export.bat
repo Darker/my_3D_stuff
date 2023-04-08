@@ -1,0 +1,1 @@
+openscad -o roll_template.stl -D "$fn=300" roll_diameter_template.scad
